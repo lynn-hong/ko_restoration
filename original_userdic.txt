@@ -1,0 +1,25 @@
+어리버리	NNG
+어리버리하다	VA
+기득권	NNG
+바람과 함께 사라지다	NNP
+DB색인	NNG
+DB 색인	NNG
+GS인증	NNP
+GS 인증	NNP
+Highlighting	NNG
+구문 검색	NNG
+무제한	NNG
+갠춘하다	VA
+괜춘하다	VA
+깔맞춤	NNG
+깔맞춤하다	VV
+자연미인	NNG
+흠	IC
+복귀유저	NNG
+유저	NNG
+딜링	NNG
+초보자	NNG
+자나	EC
+쓸만하다	VA
+너무하다	VA
+찐하다	VA
