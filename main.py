@@ -25,7 +25,7 @@ elif data_source == "text_test":
 komoran = KomoranClass(modelPath="modelsasdf")
 userdic_files = ["original_userdic.txt", "noun_general_list.txt"]
 userdic = "<PATH TO YOUR KOMORAN user.dic FILE>"
-ko_ascii_file = open("ko_ascii_code.csv")
+ko_ascii_file = open("ko_ascii_code.txt")
 ko_ascii_code = ko_ascii_file.read().replace("\n", ",").split(",")
 util.add_userdic(userdic_files, userdic)
 print("Finish adding user dictionary...")
