@@ -431,7 +431,7 @@ def komoran_processing(komoran, complex_verb_set):
                         else:
                             tokenWord += " %s다" % token
                     else:
-                        if tag == "VX" and token in ["않", "없", "못하", "말", "주"]:
+                        if tag in ("VX", "VA") and token in ["않", "없", "못하", "말", "주"]:
                             tokenWord += "_%s다" % token
                         else:   # rest all tag including VX
                             # insert white space if V-V or VA-VA case(grammar error)
